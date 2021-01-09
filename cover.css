@@ -177,11 +177,10 @@ body {
   .cover-container {
     width: 700px;
   }
-
-.powerbi{
-  width: 100%;
-  margin: 0px;
-  padding: 0px;
+#footer{
+  position: relative;
+  top: 30px;
 }
+
 
 }
